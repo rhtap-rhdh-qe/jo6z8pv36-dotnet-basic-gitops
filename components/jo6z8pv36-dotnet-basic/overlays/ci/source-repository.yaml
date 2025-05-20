@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jo6z8pv36-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jo6z8pv36-dotnet-basic
